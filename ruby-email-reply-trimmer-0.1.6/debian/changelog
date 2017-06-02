@@ -1,0 +1,5 @@
+ruby-email-reply-trimmer (0.1.6-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- MAINTAINER <abhijith@mahishasura>  Fri, 02 Jun 2017 17:07:04 +0200
